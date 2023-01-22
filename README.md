@@ -20,3 +20,6 @@
 
 ## Presentation
 - 오프라인 3조_발표자료.pdf : 2022/08/18 발표 자료
+
+## Tableau
+- kakao_project.twbx : 태블로 대시보드 활용 
