@@ -5,7 +5,7 @@
 - 팀원 : 조여재, 전희진, 오유경, 엄대용
 - 기간 : 2022/08/16 - 2022/08/18
 - 발표 : 2022/08/18
-- Language : Jupyter notebook, MySQL
+- Language : Python, MySQL
 
 ## Data
 - https://gift.kakao.com/home
